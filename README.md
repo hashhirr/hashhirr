@@ -8,7 +8,7 @@
 
 ---
 
-## 📱 Mobile Development
+## Mobile Development
 
 - React Native (CLI & Expo)
 - TypeScript
