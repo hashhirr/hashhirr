@@ -19,7 +19,7 @@
 
 ---
 
-## 🔧 Backend & Integrations
+## Backend & Integrations
 
 - Firebase Authentication (Phone, Google, Apple)
 - Firebase Analytics & event tracking
@@ -31,7 +31,7 @@
 
 ---
 
-## 🗺️ Advanced Features
+## Advanced Features
 
 - Real-time chat & messaging systems
 - Presence indicators & live updates
@@ -48,7 +48,7 @@
 
 ---
 
-## 🚀 Deployment & Automation
+## Deployment & Automation
 
 - Full end-to-end app lifecycle management
 - Build preparation & environment setup
@@ -63,7 +63,7 @@
 
 ---
 
-## ✅ What I Deliver
+## What I Deliver
 
 - Clean, maintainable, and scalable codebases
 - Performance-optimized apps (media-heavy & low-latency)
